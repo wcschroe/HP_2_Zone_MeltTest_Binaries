@@ -9,7 +9,7 @@ Clone this repository as you regularly would and pull when updates are pushed to
 ### If you are unfamiliar with Github:
 Simply click the green "clone or download" at the top right of the file list and download as a zip file.
 
-Extract the zip to a location of your choosing. This folder and its contents will need to be manually removed and replaced upon every firmware update so old files wont be used by mistake.
+Extract the zip to a location of your choosing. Upon updates, the .hex file will need to be replaced with the latest manually to avoid uploading an old version
 
 ## Uploading the binary HEX file
 
