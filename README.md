@@ -3,9 +3,11 @@
 Firmware for the 3rd Wave Labs Controllino controller comes in the form of a .hex binary file.
 
 ## Using This repository
-If you are familiar with Github, clone this repository as you regularly would and pull when updates are pushed to this repository to keep everything up to date.
+### If you are familiar with Github:
+Clone this repository as you regularly would and pull when updates are pushed to this repository to keep everything up to date.
 
-If you are unfamiliar with Github simply click the green "clone or download" at the top right of the file list and download as a zip file.
+### If you are unfamiliar with Github:
+Simply click the green "clone or download" at the top right of the file list and download as a zip file.
 
 Extract the zip to a location of your choosing. This folder and its contents will need to be manually removed and replaced upon every firmware update so old files wont be used by mistake.
 
